@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="GLOVVV22" size="100.000000 133.333328" />
+    <ImageTarget name="glovee3" size="100.000000 133.333328" />
+    <ImageTarget name="glovvv" size="1.000000 0.750000" />
+    <ImageTarget name="glov" size="1.000000 1.333333" />
+    <ImageTarget name="Glove" size="100.000000 75.000000" />
+    <ImageTarget name="Secure" size="100.000000 133.333328" />
+    <ImageTarget name="KakaoTalk_20181208_150303439" size="100.000000 75.000000" />
+    <ImageTarget name="KakaoTalk_20181208_150303881" size="100.000000 133.333328" />
+    <ImageTarget name="gesoe2" size="100.000000 133.333328" />
+    <ImageTarget name="test" size="100.000000 133.333328" />
+    <ImageTarget name="chachacha" size="100.000000 133.333328" />
+    <ImageTarget name="test1" size="100.000000 133.333328" />
+    <ImageTarget name="headphone" size="100.000000 133.333328" />
+    <ImageTarget name="C_book" size="1.000000 0.750000" />
+    <ImageTarget name="Gojiseo" size="1.000000 1.333333" />
+    <ImageTarget name="KakaoTalk_20181123_234604402" size="1.000000 1.333333" />
+    <ImageTarget name="Beatles" size="1.000000 1.333333" />
+    <ImageTarget name="KakaoTalk_20181105_200653995" size="500.000000 375.000000" />
+  </Tracking>
+</QCARConfig>
